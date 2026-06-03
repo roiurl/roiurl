@@ -8,6 +8,3 @@ Python<br>• Telegram bots (Aiogram)<br>• Web automation (Selenium)<br>• Ba
 ![](https://github-readme-stats.shion.dev/api?username=roiurl&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=roiurl&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=roiurl&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=roiurl&icon=2&color=12)](https://visitcount.itsvg.in)
